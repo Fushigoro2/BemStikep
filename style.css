@@ -10,3 +10,8 @@
 section {
   padding-top: 5rem;
 }
+
+.card:hover {
+  transform: translateY(-15px);
+    box-shadow: 0 6px 15px rgba(0, 0, 0, 0.2);
+}
